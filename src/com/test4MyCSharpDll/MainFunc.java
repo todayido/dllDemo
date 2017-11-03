@@ -5,7 +5,7 @@ import com.sun.jna.Native;
 import com.sun.jna.win32.StdCallLibrary;
 
 /**
- * Created by lizhr on 2017/10/26.
+ * Created by Lee on 2017/10/26.
  * Description:Test the dll in CSharp
  */
 public interface MainFunc extends StdCallLibrary {

@@ -5,7 +5,7 @@ import com.sun.jna.Platform;
 import com.sun.jna.win32.StdCallLibrary;
 
 /**
- * Created by lizhr on 2017/10/24.
+ * Created by Lee on 2017/10/24.
  * Description:
  */
 public interface DLLDemo extends StdCallLibrary {
